@@ -1,6 +1,6 @@
 **Project: Real-time Fraud Detection and Prevention System for a Dating App**
 
-This project will showcase the expertise of a Senior Data Scientist role focused on machine learning and algorithms, specifically for a dating application like Hinge. We'll develop a robust real-time fraud detection system to identify bad actors and mitigate their impact on the platform.
+This project showcases the application of machine learning and algorithms to detect fraud for a dating application like Hinge. We'll develop a robust real-time fraud detection system to identify bad actors and mitigate their impact on the platform.
 
 **Objective:**
 
